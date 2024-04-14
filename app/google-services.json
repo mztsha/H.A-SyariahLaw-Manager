@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948840857408",
+    "project_id": "fypmaza-6ea6b",
+    "storage_bucket": "fypmaza-6ea6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948840857408:android:8436ca9730a414ab5984a5",
+        "android_client_info": {
+          "package_name": "com.homework.fypmaza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD3GiIxggqzyyr5u6RzyQ6w16YxXuwKoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
